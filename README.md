@@ -36,9 +36,7 @@ YouTube の Shorts を非表示にする Chrome 拡張（manifest v3）
 - `storage` - 設定の保存
 - `tabs` - タブ操作（必要に応じて）
 
-## ライセンス
 
-適切なライセンスをここに追加してください（例: MIT）。
 
 ---
 
