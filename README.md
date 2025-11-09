@@ -38,6 +38,3 @@ YouTube の Shorts を非表示にする Chrome 拡張（manifest v3）
 
 
 
----
-
-拡張の詳細やスクリーンショットを README に追加したい場合は教えてください。
